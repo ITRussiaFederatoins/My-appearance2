@@ -1,0 +1,6 @@
+print("EN")
+print("It was in 2020. I was just looking up how to install Windows antivirus software, etc. On July 25, 2026, I officially began studying IT. Today is Day 1. I'll be learning freelancing, JavaScript, Python, creating Telegram bots and VK, Roblox Studio, HTML, CSS, and maybe something else. I'll be posting interesting tools on GitHub. I also used to work in OSINT. I might post OSINT tools, but I'm not sure. Thanks for reading.")
+print("RU")
+print("Это было в 2020 тогда я только смотрел как устоновить анивирус виндовс и тд ис 25.07.2026 я официально начал изучать IT Сегоадня день 1 я буду изучать фриланс JavaScript Python  Создание телеграмм ботов и вк RobloxStudio HTML CSS  И возможно что то еще Буду выкладывать на Гитхаб интересные инструменты также я раньше занимался OSINT И инструменты осинт возможно буду выкладывать не факт Спасибо за прочтение")
+print("UKRAINE")
+print("Це було в 2020 тоді я тільки дивився як встановити анівірус віндовс і тд іс 25.07.2026 я офіційно почав вивчати IT Сьогодні день 1 я буду вивчати фріланс JavaScript Python Створення телеграм ботів і вк RobloxStudio HTML CSS І можливо що ще OSINT І інструменти осинт можливо викладатиму не факт Дякую за прочитання")
